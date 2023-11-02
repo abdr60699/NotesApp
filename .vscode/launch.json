@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib\\DB_Connetion.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib\\DB_Connetion.dart"
+    }
+  ]
+}
